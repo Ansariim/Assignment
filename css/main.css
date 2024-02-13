@@ -1,0 +1,68 @@
+/* My name is Imran Khan, Student Number is 8935065*/
+body{
+    width: 80;
+    max-width: 100%;
+    padding: 30px;
+    margin: 2px 5% auto;
+    font: small-caps x-large 2em sans-serif;
+    background-color:silver;
+    border: solid 2px black;
+
+}
+h1{
+    color: rgb(39, 157, 39);
+}
+header{
+    border: 5px solid red;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 30px;
+}
+footer{
+    border: 5px solid red;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 30px;
+}
+h2,h3,h4{
+    color:orchid;
+    font-variant: small-caps;
+}
+p2{
+    color: forestgreen;
+    font-size: 14px;
+}
+li{
+    list-style-type: none;
+    line-height: 3em;
+}
+    aside{
+        float: right;
+        padding-left: 30%;
+        padding-right: 10%;
+
+    }
+    figcaption{
+        font-style: bold;
+        font-variant: small-caps;
+        color: blue;
+    }
+    img{
+        border: 5px solid black;
+        width: 300px;
+        height: 250px;
+    }
+    q{
+        font-family: cursive;
+        font-style:italic ;
+        font-size: 14px;
+    }
+
+    a{
+        text-decoration-line: none;
+        color: brown;
+    }
+    
+
+
+
